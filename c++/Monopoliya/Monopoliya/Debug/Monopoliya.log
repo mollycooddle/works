@@ -1,0 +1,124 @@
+﻿  main.cpp
+D:\Monopoliya\Monopoliya\Players.h(21,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\Players.h(21,34): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\Corporations.h(36,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\Corporations.h(36,34): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\Corporations.h(52,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Monopoliya\Monopoliya\Corporations.h(52,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Monopoliya\Monopoliya\Textures.h(20,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\Textures.h(20,34): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\main.cpp(234,62): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\main.cpp(234,50): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\main.cpp(239,62): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\main.cpp(239,50): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\main.cpp(337,61): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\main.cpp(337,49): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\main.cpp(345,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Monopoliya\Monopoliya\main.cpp(367,60): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\main.cpp(367,48): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\main.cpp(368,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Monopoliya\Monopoliya\main.cpp(437,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Monopoliya\Monopoliya\main.cpp(444,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Monopoliya\Monopoliya\Textures.h(46,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\Textures.h(45,7): message : во время компиляции функции-члена класс шаблон "void TexturedSprite<sf::Texture>::setPositionobj(int,int)"
+D:\Monopoliya\Monopoliya\main.cpp(27,27): message : см. первую ссылку на "TexturedSprite<sf::Texture>::setPositionobj" в "main"
+D:\Monopoliya\Monopoliya\main.cpp(21,30): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "TexturedSprite<sf::Texture>"
+D:\Monopoliya\Monopoliya\Textures.h(46,34): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Monopoliya\Monopoliya\Process.h(116): warning C4715: movePlayer: значение возвращается не при всех путях выполнения
+  Monopoliya.vcxproj -> D:\Monopoliya\Debug\Monopoliya.exe
